@@ -30,9 +30,13 @@ La chaine de caractère au début est un identifiants des commits.
 
 HEAD -> main : indique que le commit est le plus récent dans la branche "main", et "HEAD" pointe vers ce commit, "HEAD" repésente le commit actif qui est souent le dernier sur la branche active.
 
-Le text "ADD: README file" indique que ce commit a ajouté un fichier README.
+Le text "ADD: README file" indique que ce commit 
 
 ### Task 6
+
+Lorsque l'on revient a un commit précédent, Git remet le dossier de projet dans l'état exact ou il se trouvait. On revient donc a la version précédente du projet, et les changements aparaissent dans l'hisotrique.
+
+Lorsque l'on revient au dernier commit, tous les fichiers, dossiers et modifications aparaissent dans l'état final.
 
 ## Gitgraph
 
