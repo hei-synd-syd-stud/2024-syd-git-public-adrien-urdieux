@@ -42,4 +42,24 @@ Lorsque l'on revient au dernier commit, tous les fichiers, dossiers et modificat
 
 ### Task 7
 
+1 : On crée une branche "develop" qui est une brache active
+
+2: Identifiant du commit
+
+3: Indique qu'il y a la branche "feature-auth" dans la branche "develop"
+
+4: Nom et prénom de l'auteur avec son adresse mail
+
+5: Nom pour la version du projet
+
+6: Dernier commit effectué
+
+7: C'est un commit fait par Carol
+
+8: Commit du main 
+
+9: Les différents commit fait par Silvan Zahno
+
+10: Commit initial, au  début de l'historique
+
 ![Gitgraph](img/gitgraph.svg)
